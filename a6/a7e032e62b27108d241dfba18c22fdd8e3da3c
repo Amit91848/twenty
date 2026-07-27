@@ -1,0 +1,32 @@
+packages/twenty-front/src/modules/page-layout/hooks/__tests__/useSetIsPageLayoutInEditMode.test.tsx
+  s_00dcd02f346c10::t_05dd4571f2c889 57
+packages/twenty-front/src/modules/page-layout/widgets/components/DashboardWidgetPlaceholder.tsx
+  s_00dcd02f346c10::t_e00491f592e627 52,66-67,71
+  s_00dcd02f346c10::t_7a9ab0482c8ecf 53-60,62-65
+  s_00dcd02f346c10::t_a02e7498af8b82 61
+  s_00dcd02f346c10::t_953b822198606d 39
+packages/twenty-server/src/database/commands/upgrade-version-command/2-25/2-25-workspace-command-1785100000000-add-layouts-permission-to-edit-layout-command-menu-items.command.ts
+  s_00dcd02f346c10::t_9b4ce3316deb00 2,7,9-13,15-18,24,29-31,40-91,93,95,101-107,110-111,113-127,129,131-135,138-141
+packages/twenty-server/src/database/commands/upgrade-version-command/2-25/2-25-upgrade-version-command.module.ts
+  s_00dcd02f346c10::t_053f4650785783 16,18
+  s_00dcd02f346c10::t_edc975367ecc24 5-6
+packages/twenty-front/src/modules/navigation-menu-item/display/dnd/hooks/useHandleAddToNavigationDrop.ts
+  s_00dcd02f346c10::t_e855208b8b8cda 87-88
+  s_00dcd02f346c10::t_c5f1b45262622d 98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "a6a7e032e62b27108d241dfba18c22fdd8e3da3c",
+  "prompts": {},
+  "sessions": {
+    "s_00dcd02f346c10": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "25a9bf67-93dd-47c3-b5ba-5c1c938ca47d",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Amit Sharma <74371312+Amit91848@users.noreply.github.com>"
+    }
+  }
+}
