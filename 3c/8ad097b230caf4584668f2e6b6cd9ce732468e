@@ -1,0 +1,55 @@
+packages/twenty-front/src/modules/page-layout/hooks/useCanEditPageLayouts.ts
+  s_00dcd02f346c10::t_ee11655add2349 1-8
+packages/twenty-front/src/modules/navigation-menu-item/display/sections/workspace/components/WorkspaceSection.tsx
+  s_00dcd02f346c10::t_c60be83829f070 31
+  s_00dcd02f346c10::t_3fa0e2e1257a2d 206-215
+  s_00dcd02f346c10::t_6d811355aeb562 56
+packages/twenty-server/src/engine/workspace-manager/twenty-standard-application/constants/standard-command-menu-item.constant.ts
+  s_00dcd02f346c10::t_41bce532d98972 271
+  s_00dcd02f346c10::t_0acdf4fc99776e 286
+packages/twenty-server/src/database/commands/upgrade-version-command/2-25/2-25-workspace-command-1785100000000-add-layouts-permission-to-edit-layout-command-menu-items.command.ts
+  s_00dcd02f346c10::t_8096102f269766 1-99
+packages/twenty-front/src/pages/settings/data-model/SettingsObjectDetailPage.tsx
+  s_00dcd02f346c10::t_362c4c72d18061 115-116
+  s_00dcd02f346c10::t_930bc5057bbd95 8
+  s_00dcd02f346c10::t_e3bf89f44c4d93 63
+packages/twenty-front/src/modules/page-layout/widgets/components/DashboardWidgetPlaceholder.tsx
+  s_00dcd02f346c10::t_70775c8332fcdd 2
+  s_00dcd02f346c10::t_f3ed3cb711379b 28
+  s_00dcd02f346c10::t_5a096e63c7fce0 39
+  s_00dcd02f346c10::t_5da6f3e39ccda5 55
+packages/twenty-front/src/modules/layout-customization/hooks/useEnterLayoutCustomizationMode.ts
+  s_00dcd02f346c10::t_7f23eb4499c373 16
+  s_00dcd02f346c10::t_98baa15af1ba05 95
+  s_00dcd02f346c10::t_eaaeec37ea1445 28,31-34
+packages/twenty-server/src/database/commands/upgrade-version-command/2-25/2-25-upgrade-version-command.module.ts
+  s_00dcd02f346c10::t_5d954e3616f35a 18-21
+  s_00dcd02f346c10::t_eb59522d36762b 6
+packages/twenty-front/src/modules/page-layout/hooks/useSetIsPageLayoutInEditMode.ts
+  s_00dcd02f346c10::t_dfb56d7cf021b2 58-59,62-65
+  s_00dcd02f346c10::t_eb3a460623e9d1 108
+  s_00dcd02f346c10::t_feee434b8eb3da 2
+packages/twenty-front/src/modules/page-layout/hooks/__tests__/useSetIsPageLayoutInEditMode.test.tsx
+  s_00dcd02f346c10::t_b39891a7a2dee6 1
+  s_00dcd02f346c10::t_419befa53b0f3d 89
+  s_00dcd02f346c10::t_30ee57fb211d46 122-125
+  s_00dcd02f346c10::t_fc53fd88afdf30 33-39
+  s_00dcd02f346c10::t_d89d819889f076 117-121,126-152
+  s_00dcd02f346c10::t_55ec0dfff2fd1f 14-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "3c8ad097b230caf4584668f2e6b6cd9ce732468e",
+  "prompts": {},
+  "sessions": {
+    "s_00dcd02f346c10": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "25a9bf67-93dd-47c3-b5ba-5c1c938ca47d",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Amit Sharma <74371312+Amit91848@users.noreply.github.com>"
+    }
+  }
+}
