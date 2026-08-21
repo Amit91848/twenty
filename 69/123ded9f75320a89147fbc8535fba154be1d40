@@ -1,0 +1,29 @@
+packages/twenty-front/src/modules/settings/data-model/object-details/components/tabs/SettingsObjectIndexesSection.tsx
+  s_071d5d7b2bdb0b::t_5bfb51c1b746cf 57
+  s_071d5d7b2bdb0b::t_d2ce564e8150c2 72-76,87-90
+  h_acb5fe30967b06 15,17-19,26
+  s_071d5d7b2bdb0b::t_779d783121f3b5 2,77-78,80-86,121-125
+  s_071d5d7b2bdb0b::t_59d8a439093d43 70-71,79,105-107
+  h_acb5fe30967b06 4-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "69123ded9f75320a89147fbc8535fba154be1d40",
+  "prompts": {},
+  "humans": {
+    "h_acb5fe30967b06": {
+      "author": "Amit Sharma <74371312+Amit91848@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_071d5d7b2bdb0b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "be1a26fe-dcdb-4df9-9251-4ff58e615169",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Amit Sharma <74371312+Amit91848@users.noreply.github.com>"
+    }
+  }
+}
