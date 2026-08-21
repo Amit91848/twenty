@@ -1,0 +1,24 @@
+packages/twenty-front/src/modules/object-record/record-field/ui/form-types/components/FormArrayFieldInput.tsx
+  s_071d5d7b2bdb0b::t_16479b63e2d6b7 160-163
+  s_071d5d7b2bdb0b::t_a8502c69776b12 43,94,147-151,284-287,392,400
+packages/twenty-front/src/modules/object-record/record-field/ui/form-types/components/FormLinksFieldInput.tsx
+  s_071d5d7b2bdb0b::t_621b738d291c2e 12,38-42,97
+packages/twenty-front/src/modules/object-record/record-field/ui/form-types/components/__stories__/FormLinksFieldInput.stories.tsx
+  s_071d5d7b2bdb0b::t_ce8721f18f57c9 145-167
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "d185fcca39313e15ae3906e223c180a7f01db0c5",
+  "prompts": {},
+  "sessions": {
+    "s_071d5d7b2bdb0b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "be1a26fe-dcdb-4df9-9251-4ff58e615169",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Amit Sharma <74371312+Amit91848@users.noreply.github.com>"
+    }
+  }
+}
