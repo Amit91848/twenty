@@ -1,0 +1,43 @@
+packages/twenty-front/src/modules/object-record/record-field/ui/form-types/components/FormLinksFieldInput.tsx
+  s_071d5d7b2bdb0b::t_446d8e80a0e840 60
+  s_071d5d7b2bdb0b::t_f40c62a5e27148 17
+  s_071d5d7b2bdb0b::t_3dfd366c634d24 18
+  s_071d5d7b2bdb0b::t_6eaca41af6b4c2 22,32,34,36,52,54-57,61-63,84,86,88-92
+  s_071d5d7b2bdb0b::t_fa738e6e8652b6 1,6-9,12,35,42,48-51,53,58-59,85,87
+  h_acb5fe30967b06 10-11
+packages/twenty-front/src/modules/object-record/record-field/ui/types/FieldMetadata.ts
+  s_071d5d7b2bdb0b::t_546196a8707381 246-253
+packages/twenty-front/src/modules/object-record/record-field/ui/components/FormFieldInput.tsx
+  s_071d5d7b2bdb0b::t_f40c62a5e27148 145
+  s_071d5d7b2bdb0b::t_8ac7d573bfe0eb 38
+  s_071d5d7b2bdb0b::t_1d9fb026e5f0e1 149
+packages/twenty-front/src/modules/object-record/record-field/ui/form-types/components/__stories__/FormLinksFieldInput.stories.tsx
+  s_071d5d7b2bdb0b::t_320d1bbb111b4a 95-107,110-115,117-138,142-144
+  s_071d5d7b2bdb0b::t_8b5be1f7222054 108,116,139,141
+  s_071d5d7b2bdb0b::t_3ae5ee2db09d9c 64-94,145-162
+  s_071d5d7b2bdb0b::t_16385c3b10db76 109,140
+  s_071d5d7b2bdb0b::t_37146479a0b5f5 5
+  s_071d5d7b2bdb0b::t_4ad2678310a80c 54,56
+  s_071d5d7b2bdb0b::t_f5077a7ffad3f9 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "8cacb1870f05cd746e54aa636ed40bd7f8a2d502",
+  "prompts": {},
+  "humans": {
+    "h_acb5fe30967b06": {
+      "author": "Amit Sharma <74371312+Amit91848@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_071d5d7b2bdb0b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "be1a26fe-dcdb-4df9-9251-4ff58e615169",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Amit Sharma <74371312+Amit91848@users.noreply.github.com>"
+    }
+  }
+}
