@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "63b94c078ae7014ffd7fbbbdde28bec5edd65cc4",
+  "prompts": {},
+  "humans": {
+    "h_acb5fe30967b06": {
+      "author": "Amit Sharma <74371312+Amit91848@users.noreply.github.com>"
+    }
+  }
+}
