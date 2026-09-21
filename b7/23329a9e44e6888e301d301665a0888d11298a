@@ -1,0 +1,46 @@
+packages/twenty-front/src/modules/page-layout/widgets/components/WidgetActionFieldSeeAll.tsx
+  s_071d5d7b2bdb0b::t_8ab9bb5fbc1f16 31-38
+  s_071d5d7b2bdb0b::t_ebdf46a9d574a9 27-30,39-41,44-45,48-55,58,62-63,68-71,74,86,92
+  h_acb5fe30967b06 4
+packages/twenty-server/src/engine/api/graphql/workspace-schema-builder/graphql-type-generators/input-types/relation-field-metadata-gql-type.generator.ts
+  s_071d5d7b2bdb0b::t_6a2028cfe71a84 89-96
+packages/twenty-server/test/integration/graphql/suites/filter-by-relation-field.integration-spec.ts
+  s_071d5d7b2bdb0b::t_70168d99a213db 479-480
+  s_071d5d7b2bdb0b::t_d4e7febd72ae87 30,336-478
+packages/twenty-front/src/modules/page-layout/widgets/field/hooks/useFieldWidgetActionVisibility.ts
+  s_071d5d7b2bdb0b::t_701190b98300ee 11,72-74
+packages/twenty-front/src/modules/views/hooks/internal/useFiltersFromQueryParams.ts
+  s_071d5d7b2bdb0b::t_4c4a0d69a1e9c6 5,28,71,75,90-91,93-94,97-100
+  s_071d5d7b2bdb0b::t_bf752ba10d319e 67-68
+  s_071d5d7b2bdb0b::t_b5a644dc4d317d 66,69-70,72-74
+  s_071d5d7b2bdb0b::t_9efc64674b8376 76-88,92,95-96
+  s_071d5d7b2bdb0b::t_a4fd986e36d7cb 135
+packages/twenty-front/src/modules/page-layout/widgets/field/utils/canSeeAllForJunctionConfig.ts
+  s_071d5d7b2bdb0b::t_701190b98300ee 1-9
+packages/twenty-front/src/modules/views/hooks/internal/__tests__/useFiltersFromQueryParams.test.tsx
+  s_071d5d7b2bdb0b::t_39fe726d0f5872 1-106,110-119
+  s_071d5d7b2bdb0b::t_fa8b7435eaa1bd 107-109
+packages/twenty-front/src/modules/page-layout/widgets/field/utils/__tests__/canSeeAllForJunctionConfig.test.ts
+  s_071d5d7b2bdb0b::t_05924c0b9fa666 1-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b723329a9e44e6888e301d301665a0888d11298a",
+  "prompts": {},
+  "humans": {
+    "h_acb5fe30967b06": {
+      "author": "Amit Sharma <74371312+Amit91848@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_071d5d7b2bdb0b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "be1a26fe-dcdb-4df9-9251-4ff58e615169",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Amit Sharma <74371312+Amit91848@users.noreply.github.com>"
+    }
+  }
+}
